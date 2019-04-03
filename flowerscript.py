@@ -1,9 +1,14 @@
 #calculate mean mode and document steps in python for iris data set
+#this excellent article on working with data in panda and selecting columns/index https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 import pandas as pd 
 import numpy as np
 # reference for read csv https://www.datacamp.com/community/tutorials/pandas-read-csv
-df1 = pd.read_csv(r"C:\Users\Owner\Desktop\irisdataset/iristest.csv")
-print(df1.head(5))
+df1 = pd.read_csv(r"C:\Users\Owner\Desktop\irisdataset/iristest.csv") #importsdatafromfolder r gets rid of the strange error by converting it into a readable string 
+
+#print(df1["sepallength"].mean()) #prints the mean value of sepalength column UNCOMMENT THIS
+#overall stats describe 
+print(df1.describe()) # THIS SHOWS ALL OF THE KEY STATS SURROUNDING DATA  
+#print(df1.head(5)) first 5 rows.
 
 
 #import pandas as pd
