@@ -7,12 +7,16 @@
 >It is one of the most widely used data sets in Machine Learning and Pattern Recognition 
 >It is used often for supervised and unsupervised classification tasks. The data set can be found widely online. 
 
+### Instructions 
+
+* Script is written in Python 3.6 - execture flowerscript.py to calculate the summary stats mentioned below. 
+
 ## Research summary and links 
 
 * It is possible to plot simple data effectively just using the matplotlib - there is an excellent article by Gilbert Tanner which outlines a variety of visualisation methods for the Iris Data Set here. [Data Visualisation in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed) "Examples and code")
 
 * Running Gilbert's basic script using matplotlib results in the following image: 
-[alt text](https://cdn-images-1.medium.com/max/800/1*wHJsVsCZsIN2mvYOGhIcCA.png "Gilbert Tanner Matplot example")
+[gilbert tanner matplot scatter plot](https://cdn-images-1.medium.com/max/800/1*wHJsVsCZsIN2mvYOGhIcCA.png) "Gilbert Tanner Matplot example")
 
 * Alternatively 
 
