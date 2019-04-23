@@ -17,8 +17,7 @@
 
 * Running Gilbert's basic script using matplotlib results in the following image: 
 [gilbert tanner matplot scatter plot](https://cdn-images-1.medium.com/max/800/1*wHJsVsCZsIN2mvYOGhIcCA.png) "Gilbert Tanner Matplot example")
-
-* Alternatively 
+ 
 
 ### Summary of Data
 
